@@ -1,0 +1,10 @@
+ADMIN ACCOUNT:
+Name: admin
+Password: admin
+
+USER ACCOUNT:
+1: Name: Kien
+   Password:12345678
+
+2: Name: user01
+   Password:user01
